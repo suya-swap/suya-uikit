@@ -1,5 +1,5 @@
 {
-  "name": "@wakandaswap-libs/uikit",
+  "name": "@suyaswap-libs/uikit",
   "version": "0.1.4",
   "description": "Set of UI components for wakanda projects",
   "main": "dist/index.cjs.js",
@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/wakandaswap/wakanda-uikit",
+  "repository": "https://github.com/suya-swap/suya-uikit",
   "license": "MIT",
   "scripts": {
     "build": "rm -rf ./dist && rollup -c && tsc -d --emitDeclarationOnly --declarationDir dist",
